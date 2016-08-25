@@ -8172,7 +8172,7 @@
     "emoji": "🤑"
   , "description": "money-mouth face"
   , "aliases": [
-      "money_mouth",
+      "money_mouth"
     ]
   , "tags": [
     ]
@@ -8208,7 +8208,7 @@
     "emoji": "🤕"
   , "description": "face with head-bandage"
   , "aliases": [
-      "head_bandage",
+      "head_bandage"
     ]
   , "tags": [
     ]
@@ -8217,7 +8217,7 @@
     "emoji": "🤖"
   , "description": "robot face"
   , "aliases": [
-      "robot",
+      "robot"
     ]
   , "tags": [
     ]
@@ -8226,7 +8226,7 @@
     "emoji": "🤗"
   , "description": "hugging face"
   , "aliases": [
-      "hugging",
+      "hugging"
     ]
   , "tags": [
     "hug"
